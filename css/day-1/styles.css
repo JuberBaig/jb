@@ -1,0 +1,9 @@
+.bdy {
+    background-color: black;
+  }
+  #red {
+    color: olive;
+  }
+  .text-red {
+    color: rgb(123, 255, 0);
+  }
